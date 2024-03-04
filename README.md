@@ -33,7 +33,7 @@ Tras terminar la ejecución de este comando ingresar en el entorno virtual de la
 
 Para linux y MacOS:
 ```
-source venv/bin/activat`
+source venv/bin/activate
 ```
 
 Para Windows (CMD):
